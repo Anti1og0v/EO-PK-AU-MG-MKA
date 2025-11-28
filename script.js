@@ -5,7 +5,7 @@ const videos = [
     title: "Поздравление от друзей",
     sender: "Группа друзей",
     thumbnail: "media/video1-thumb.jpg", 
-    url: "media/video1.mp4",
+    url: "media/first.mp4",
     duration: "2:45",
   },
   {
@@ -13,7 +13,7 @@ const videos = [
     title: "Видеовизитка от коллег",
     sender: "Коллектив компании",
     thumbnail: "media/video2-thumb.jpg",
-    url: "media/video2.mp4",
+    url: "media/first.mp4",
     duration: "3:20",
   },
   {
@@ -21,7 +21,7 @@ const videos = [
     title: "Сюрприз-челлендж",
     sender: "Близкие",
     thumbnail: "media/video3-thumb.jpg",
-    url: "media/video3.mp4",
+    url: "media/first.mp4",
     duration: "1:55",
   },
   {
