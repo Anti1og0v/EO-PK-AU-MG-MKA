@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const messages = [
   {
     sender: "Александра Кузнецова",
@@ -249,3 +250,5 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") {
   }
 });
+=======
+>>>>>>> 9a04de33630dcb9e31182a6661d123d2ebbe601e
